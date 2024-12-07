@@ -16,7 +16,7 @@ const Hero = () => {
              font-semibold block md:text-[40px] md:text-start md:inline"
         >
           <span className="-ml-3">👋 </span>
-          Hello I'm Anik Karmakar, I'm a{" "}
+          Hello I'm Anik Karmakar, I'm a {" "}
           <span
             className="block text-[27px] highlight mt-2
             md:text-[40px] md:inline md:mt-0"
@@ -38,7 +38,7 @@ const Hero = () => {
                 bg-primary text-white p-2.5 rounded flex gap-2.5
                 items-center text-sm md:self-start md:text-xl/6"
         >
-          Let's Connect <img src="./arrow_right_icon.svg" />
+          Let's Connect <Image src="./arrow_right_icon.svg" alt="arrow icon for contact anikdv" width={21} height={21} />
         </a>
       </div>
 

@@ -2,6 +2,7 @@
 
 import React, { useCallback, useEffect, useState } from "react";
 import cn from "classnames";
+import Image from "next/image"
 
 const Navbar = () => {
   const [activeTab, setActiveTab] = useState("home");
@@ -27,20 +28,24 @@ const Navbar = () => {
         className="bg-background md:hidden card-shadow p-3 rounded"
         onClick={() => setIsOpen((prevVal) => !prevVal)}
       >
-        <img
+        <Image
           className="block dark:hidden"
           src="./menu_icon_light.svg"
           alt="menu icon"
+          width={19}
+          height={19}
         />
       </button>
       <button
         className="bg-background md:hidden card-shadow p-3 rounded"
         onClick={() => setIsOpen((prevVal) => !prevVal)}
       >
-        <img
+        <Image
           className="hidden dark:block"
           src="./menu_icon_dark.svg"
           alt="menu icon"
+          width={19}
+          height={19}
         />
       </button>
 
