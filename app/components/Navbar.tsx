@@ -24,7 +24,7 @@ const Navbar = () => {
         flex flex-col gap-2.5 items-end z-50 md:right-auto md:left-1/2 md:-translate-x-1/2 "
     >
       <button
-        className="bg-background card-shadow p-3 md:hidden rounded"
+        className="bg-background md:hidden card-shadow p-3 rounded"
         onClick={() => setIsOpen((prevVal) => !prevVal)}
       >
         <img
@@ -34,7 +34,7 @@ const Navbar = () => {
         />
       </button>
       <button
-        className="bg-background card-shadow p-3 md:hidden rounded"
+        className="bg-background md:hidden card-shadow p-3 rounded"
         onClick={() => setIsOpen((prevVal) => !prevVal)}
       >
         <img
