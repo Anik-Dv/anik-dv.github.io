@@ -29,7 +29,7 @@ const Navbar = () => {
       >
         <img
           className="block dark:hidden"
-          src="/menu_icon_light.svg"
+          src="./menu_icon_light.svg"
           alt="menu icon"
         />
       </button>
@@ -39,7 +39,7 @@ const Navbar = () => {
       >
         <img
           className="hidden dark:block"
-          src="/menu_icon_dark.svg"
+          src="./menu_icon_dark.svg"
           alt="menu icon"
         />
       </button>
