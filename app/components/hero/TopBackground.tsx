@@ -75,7 +75,7 @@ const TopBackground = () => {
         </div>
       </div>
       {/* For Desktop Mode */}
-      <img
+      <Image
         src="./top_highlight.svg"
         alt="dark background Image"
         width={809}
@@ -86,7 +86,7 @@ const TopBackground = () => {
       />
 
       {/* For Mobile Mode */}
-      <img
+      <Image
         src="./top_highlight.svg"
         alt="dark background Image"
         width={429}
