@@ -1,0 +1,42 @@
+[
+  {
+    "thumbnail": "./weather_thumbnail.png",
+    "title": "Weather Forecast",
+    "link": {
+      "label": "Weather.dash",
+      "url": "https://www.weather.com"
+    },
+    "description": "Get the latest weather forecast for your area. Get the latest weather forecast for your area. Get the latest weather forecast for your area. Get the latest weather forecast for your area. Get the latest weather forecast for your area.",
+    "languageIcons": ["./html_icon.png", "css_icon.png", "js_icon.png"]
+  },
+  {
+    "thumbnail": "./ecommerce_thumbnail.png",
+    "title": "Ecommerce Shop",
+    "link": {
+      "label": "ecommerce.com",
+      "url": "https://www.ecommerce.com"
+    },
+    "description": "Get the latest weather forecast for your area. Get the latest weather forecast for your area.Get the latest weather forecast for your area.Get the latest weather forecast for your area. Get the latest weather forecast for your area. Get the latest weather forecast for your area.Get the latest weather forecast for your area.Get the latest weather forecast for your area. Get the latest weather forecast for your area. Get the latest weather forecast for your area.Get the latest weather forecast for your area.Get the latest weather forecast for your area. Get the latest weather forecast for your area. Get the latest weather forecast for your area.Get the latest weather forecast for your area.Get the latest weather forecast for your area. Get the latest weather forecast for your area. Get the latest weather forecast for your area.Get the latest weather forecast for your area.Get the latest weather forecast for your area.",
+    "languageIcons": ["./html_icon.png", "css_icon.png", "js_icon.png"]
+  },
+  {
+    "thumbnail": "./blog_thumbnail.png",
+    "title": "Blog Plactform",
+    "link": {
+      "label": "blog.com",
+      "url": "https://www.blog.com"
+    },
+    "description": "Write the latest Blog forecast for your area. Write the latest Blog forecast for your area. Write the latest Blog forecast for your area. Write the latest Blog forecast for your area. Write the latest Blog forecast for your area.",
+    "languageIcons": ["./html_icon.png", "css_icon.png", "js_icon.png"]
+  },
+  {
+    "thumbnail": "./task_thumbnail.png",
+    "title": "Task Scaduling Application",
+    "link": {
+      "label": "task.me",
+      "url": "https://www.task.me"
+    },
+    "description": "Get the latest Task Scaduling for your Work. Get the latest Task Scaduling for your Work. Get the latest Task Scaduling for your Work. Get the latest Task Scaduling for your Work. Get the latest Task Scaduling for your Work.",
+    "languageIcons": ["./html_icon.png", "css_icon.png", "js_icon.png"]
+  }
+]

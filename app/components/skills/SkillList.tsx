@@ -27,13 +27,23 @@ const SkillList = () => {
       </div>
 
       <>
+      {/* Dark Mode Decoration */}
         <Image
           src="./tech_stack_grid_dark.svg"
-          alt="background decoration"
+          alt="Dark background decoration"
           width={569}
           height={373}
           className="hidden dark:md:block -z-10 absolute
           -left-[135px] -top-[38px]"
+        />
+      {/* Light Mode Decoration */}
+        <Image
+          src="./tech_stack_grid.svg"
+          alt="Light background decoration"
+          width={569}
+          height={373}
+          className="hidden dark:hidden md:block -z-10 absolute
+          -left-[125px] -top-[38px]"
         />
       </>
     </SectionContainer>
