@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Java",
+    "icon": "./java_icon.png"
+  },
+  {
+    "name": "JEE",
+    "icon": "./java_gif.gif"
+  },
+  {
+    "name": "Thymeleaf",
+    "icon": "./thymeleaf_icon.svg"
+  },
+  {
+    "name": "Spring/Springboot",
+    "icon": "./springboot_icon.svg"
+  },
+  {
+    "name": "Maven",
+    "icon": "./maven_icon.svg"
+  },
+  {
+    "name": "Javascript",
+    "icon": "./js_icon.png"
+  },
+  {
+    "name": "HTML5",
+    "icon": "./html_icon.png"
+  },
+  {
+    "name": "CSS3",
+    "icon": "./css_icon.png"
+  },
+  {
+    "name": "AWS",
+    "icon": "./aws_icon.svg"
+  },
+  {
+    "name": "Cloud Development",
+    "icon": "./cloud_development.gif"
+  },
+  {
+    "name": "Apache",
+    "icon": "./apache_icon.svg"
+  },
+  {
+    "name": "Kafka",
+    "icon": "./kafka_icon.svg"
+  },
+  {
+    "name": "Bootstrap",
+    "icon": "./bootstrap_icon.svg"
+  },
+  {
+    "name": "Express.js",
+    "icon": "./expressjs_icon.svg"
+  },
+  {
+    "name": "OAuth2",
+    "icon": "./oauth_icon.svg"
+  },
+  {
+    "name": "NodeJS",
+    "icon": "./nodejs_icon.svg"
+  },
+  {
+    "name": "ReactJS",
+    "icon": "./react_icon.gif"
+  },
+  {
+    "name": "React Router",
+    "icon": "./react_router_icon.gif"
+  },  
+  {
+    "name": "WordPress",
+    "icon": "./wordPress_icon.gif"
+  },
+  {
+    "name": "MongoDB",
+    "icon": "./mongodb_icon.svg"
+  },
+  {
+    "name": "MYSQL",
+    "icon": "./mysql_icon.svg"
+  },
+  {
+    "name": "REDIS",
+    "icon": "./redis_icon.svg"
+  },
+  {
+    "name": "Hibernate",
+    "icon": "./hibernate_icon.svg"
+  },
+  {
+    "name": "Git/GitHub",
+    "icon": "./github_icon.svg"
+  },
+  {
+    "name": "Docker",
+    "icon": "./docker_icon.svg"
+  },
+  {
+    "name": "Jira",
+    "icon": "./jira_icon.svg"
+  },
+  {
+    "name": "Postman",
+    "icon": "./postman_icon.svg"
+  },
+  {
+    "name": "Jenkins",
+    "icon": "./jenkins_icon.svg"
+  },
+  {
+    "name": "SonarQube",
+    "icon": "./sonarqube_icon.svg"
+  },
+  {
+    "name": "Nexus Repository",
+    "icon": "./nexus_icon.png"
+  },
+  {
+    "name": "Swagger",
+    "icon": "./swagger_icon.svg"
+  },
+  {
+    "name": "Terraform",
+    "icon": "./terraform_icon.svg"
+  }
+]

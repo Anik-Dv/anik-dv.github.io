@@ -16,7 +16,7 @@ const Hero = () => {
              font-semibold block md:text-[40px] md:text-start md:inline"
         >
           <span className="-ml-3">👋 </span>
-          Hello I'm Anik Karmakar, I'm a {" "}
+          Hello! I'm Anik Karmakar, I'm a {" "}
           <span
             className="block text-[27px] highlight mt-2
             md:text-[40px] md:inline md:mt-0"

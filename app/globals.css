@@ -13,7 +13,7 @@
   --background: #030304;
   --foreground: #ffffff;
   --primary: #522ffe;
-  --card: #1d1d1d;
+  --card: #1d1d1d1d;
 }
 
 body {
@@ -34,5 +34,11 @@ body {
   }
   .highlight {
     @apply bg-primary text-white px-5 rounded-[4px] font-bold;  
+  }
+  .section-contents {
+    @apply w-full flex flex-col items-center gap-10 md:gap-[50px];
+  }
+  .card {
+    @apply bg-card rounded-lg card-shadow;
   }
 }
